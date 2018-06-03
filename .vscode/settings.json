@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/shixingyi/.pyenv/versions/3.6.4/bin/python3.6",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
